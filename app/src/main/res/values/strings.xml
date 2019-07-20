@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nasa Photos</string>
+
+    <string name="set_as_wallpaper">Установить на обои</string>
+    <string name="share">Поделиться фото</string>
+
+    <string name="set_as_wallpaper_completed">Фотография установлена в качестве обоев</string>
+
+    <string name="choose_day">Выберите день</string>
+
+    <string name="choose_time">Выберите время</string>
+</resources>
